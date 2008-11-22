@@ -1,0 +1,14 @@
+== 0.0.1 2007-12-11
+
+* 1 major enhancement:
+  * Initial release
+
+== 0.0.2 2007-12-12
+
+* 1 tiny enhancement:
+  * Updated website
+
+== 0.2.0 2007-12-12
+
+* 1 minor enhancement:
+  * Added delaycalc script to /bin

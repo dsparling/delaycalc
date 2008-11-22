@@ -1,0 +1,53 @@
+h1. delaycalc
+
+h1. &#x2192; 'delaycalc'
+
+
+h2. What
+
+delaycalc is a Ruby application used to calculate delay times for digital delay processors that will match the tempo of music in bpm.
+
+h2. Installing
+
+<pre syntax="ruby">sudo gem install delaycalc</pre>
+
+h2. Basics
+
+<pre>
+$ ruby <bpm>
+</pre>
+
+h2. Demonstration of usage
+
+<pre>
+$ ruby delaycalc 120
+
+BPM: 120
+W(1/1): 2000 ms
+HD(1/2.): 1500 ms
+H(1/2): 1000 ms
+HT(1/2T): 667 ms
+QD(1/4.): 750 ms
+Q(1/4): 500 ms
+QT(1/4T): 333 ms
+ED(1/8.): 375 ms
+E(1/8): 250 ms
+ET(1/8T): 167 ms
+SD(1/16.): 188 ms
+S(1/16): 125 ms
+ST(1/16T): 83 ms
+TD(1/32.): 94 ms
+T(1/32): 63 ms
+TT(1/32T): 42 ms
+Q(1/4): 500 ms
+</pre>
+
+
+h2. License
+
+This code is free to use under the terms of the MIT license. 
+
+h2. Contact
+
+Comments are welcome. Send an email to "Doug Sparling":mailto:dougsparling@yahoo.com
+
