@@ -1,4 +1,4 @@
-= delaycalc
+= delaycalc 1
 
 == About
 
